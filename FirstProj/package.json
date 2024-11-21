@@ -1,0 +1,18 @@
+{
+  "name": "@sri_ujjwal03/binarysearch",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "apis",
+    "nodeApp",
+    "search",
+    "Binary search"
+  ],
+  "author": "Ujjwal",
+  "license": "ISC"
+}
